@@ -2,8 +2,8 @@
     margin-top: 10%;
     color: #404040;
     font-family: 'Poppins', sans-serif;
-    font-weight: 900;
-    font-size: 1.2em;
+    font-weight: 800;
+    font-size: 0.8em;
 }
 
 
@@ -31,7 +31,7 @@
 }
 
 .ml1 .line1 {
-    top: 0;
+    top: 1;
 }
 
 .ml1 .line2 {
@@ -41,11 +41,13 @@
 .ml2 {
     color: #404040;
     font-family: 'Poppins', sans-serif;
-    font-weight: 900;
-    font-size: 1em;
+    font-weight: 800;
+    font-size: 0.8em;
 }
 
 .ml2 .letter {
     display: inline-block;
     line-height: 1em;
+
 }
+
